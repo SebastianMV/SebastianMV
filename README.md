@@ -116,8 +116,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianMV&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github" alt="SebastianMV" height="180" />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianMV&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="SebastianMV" height="180" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SebastianMV&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=21600" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SebastianMV&show_icons=true&theme=default&hide_border=true&rank_icon=github&cache_seconds=21600" alt="SebastianMV stats" height="180" />
+  </picture>&nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianMV&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SebastianMV&layout=compact&theme=default&hide_border=true&cache_seconds=21600" alt="Top Languages" height="180" />
+  </picture>
 </div>
 
 <p align="center">
@@ -125,7 +131,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianMV&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebastianMV&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 ---
