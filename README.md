@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Seba</h1>
+<h1 align="center">Hi 👋, I'm Sebastián Muñoz Vásquez</h1>
 <h3 align="center">Software Engineer · Full Stack & DevOps · Santiago, Chile 🇨🇱</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+%7C+DevOps+%7C+IA+Generativa;Symfony+%7C+Python+%7C+Flutter+%7C+GCP;Learning+Rust+%F0%9F%A6%80;I+find+motivation+where+others+see+laziness+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+%7C+DevOps+%7C+Generative+AI;Symfony+%7C+Python+%7C+Flutter+%7C+GCP;Learning+Rust+%F0%9F%A6%80;I+find+motivation+where+others+see+laziness+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 - 🦀 Currently learning **Rust**
 - 🧠 Software Engineer — **Full Stack Development & DevOps (GCP, Docker, Jenkins)**
 - 📍 Based in **Santiago, Chile**
-- ⚡ Fun fact: **I love debugging & solving errors — I find motivation where others see laziness**
+- ⚡ Fun fact: **I love code auditing, resolving critical severities & performance optimization — I find motivation where others see laziness**
 
 ---
 
